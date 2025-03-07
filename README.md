@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 # Список значков в Markdown
 Список значков с их кодом Markdown, которые можно включить в файл `README.md` для проекта `Gitea`.
 
@@ -1414,3 +1416,5 @@ Zod                | ![Zod](https://shields.dvurechensky.pro/badge/zod-%233068b7
 | HackerRank   | ![HackerRank](https://shields.dvurechensky.pro/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)         | `![HackerRank](https://shields.dvurechensky.pro/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`         |
 | Indeed       | ![Indeed](https://shields.dvurechensky.pro/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)                      | `![Indeed](https://shields.dvurechensky.pro/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`                      |
 | Upwork       | ![Upwork](https://shields.dvurechensky.pro/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://shields.dvurechensky.pro/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
+
+<p align="center">✨Dvurechensky✨</p>
