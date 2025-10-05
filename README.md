@@ -13,7 +13,7 @@
     - [_"Ask me anything"_ in English](#ask-me-anything-in-english)
     - [_"Demandez moi n'importe quoi"_ in French](#demandez-moi-nimporte-quoi-in-french)
   - [Python related](#python-related)
-      - [Jupyter Notebook](#jupyter-notebook)
+    - [Jupyter Notebook](#jupyter-notebook)
   - [Go related](#go-related)
   - [Rust related](#rust-related)
   - [Markdown related](#markdown-related)
@@ -47,43 +47,43 @@
   - [Random](#random)
     - [Tweeting](#tweeting)
 - [Значки 🥈](#значки-)
-    - [🤖 Искусственный интеллект и боты](#-искусственный-интеллект-и-боты)
-    - [🔗 Blockchain](#-blockchain)
-    - [📝 Blog](#-blog)
-    - [🌐 Browsers](#-browsers)
-    - [🔬 CI](#-ci)
-    - [📲 CD](#-cd)
-    - [📂 Cloud Storage](#-cloud-storage)
-    - [💲 Cryptocurrency](#-cryptocurrency)
-    - [💾 Databases](#-databases)
-    - [🎨 Design](#-design)
-    - [🧑‍💻 Developer/Forums](#-developerforums)
-    - [📑 Documentation Platforms](#-documentation-platforms)
-    - [🎓 Education](#-education)
-    - [💰 Funding](#-funding)
-    - [📚 Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-    - [🎮 Gaming](#-gaming)
-    - [🕹️ Game Consoles](#️-game-consoles)
-    - [☁️ Hosting/SaaS](#️-hostingsaas)
-    - [💻 IDEs/Editors](#-ideseditors)
-    - [📋 Languages](#-languages)
-    - [🖥️ ML/DL](#️-mldl)
-    - [🎶 Music](#-music)
-    - [🏢 Office](#-office)
-    - [🎛️ Operating System](#️-operating-system)
-    - [🎋 ORM](#-orm)
-    - [🥅 Other](#-other)
-    - [🖥️ Quantum Programming Frameworks and Libraries](#️-quantum-programming-frameworks-and-libraries)
-    - [🔍 Search Engines](#-search-engines)
-    - [🗄️ Servers](#️-servers)
-    - [💬 Social](#-social)
-    - [📱 Smartphone Brands](#-smartphone-brands)
-    - [🛍️ Store](#️-store)
-    - [📺 Streaming](#-streaming)
-    - [🧪 Testing](#-testing)
-    - [🕓 Version Control](#-version-control)
-    - [⌚️ Wearables](#️-wearables)
-    - [💼 Work/Jobs](#-workjobs)
+  - [🤖 Искусственный интеллект и боты](#-искусственный-интеллект-и-боты)
+  - [🔗 Blockchain](#-blockchain)
+  - [📝 Blog](#-blog)
+  - [🌐 Browsers](#-browsers)
+  - [🔬 CI](#-ci)
+  - [📲 CD](#-cd)
+  - [📂 Cloud Storage](#-cloud-storage)
+  - [💲 Cryptocurrency](#-cryptocurrency)
+  - [💾 Databases](#-databases)
+  - [🎨 Design](#-design)
+  - [🧑‍💻 Developer/Forums](#-developerforums)
+  - [📑 Documentation Platforms](#-documentation-platforms)
+  - [🎓 Education](#-education)
+  - [💰 Funding](#-funding)
+  - [📚 Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
+  - [🎮 Gaming](#-gaming)
+  - [🕹️ Game Consoles](#️-game-consoles)
+  - [☁️ Hosting/SaaS](#️-hostingsaas)
+  - [💻 IDEs/Editors](#-ideseditors)
+  - [📋 Languages](#-languages)
+  - [🖥️ ML/DL](#️-mldl)
+  - [🎶 Music](#-music)
+  - [🏢 Office](#-office)
+  - [🎛️ Operating System](#️-operating-system)
+  - [🎋 ORM](#-orm)
+  - [🥅 Other](#-other)
+  - [🖥️ Quantum Programming Frameworks and Libraries](#️-quantum-programming-frameworks-and-libraries)
+  - [🔍 Search Engines](#-search-engines)
+  - [🗄️ Servers](#️-servers)
+  - [💬 Social](#-social)
+  - [📱 Smartphone Brands](#-smartphone-brands)
+  - [🛍️ Store](#️-store)
+  - [📺 Streaming](#-streaming)
+  - [🧪 Testing](#-testing)
+  - [🕓 Version Control](#-version-control)
+  - [⌚️ Wearables](#️-wearables)
+  - [💼 Work/Jobs](#-workjobs)
 
 ## Общие
 
@@ -1190,7 +1190,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 ### 💻 IDEs/Editors
 
 | Name               | Badge                                                                                                                                                       | Markdown                                                                                                                                                      |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Android Studio     | ![Android Studio](https://shields.dvurechensky.pro/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)                 | `![Android Studio](https://shields.dvurechensky.pro/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)`                 |
 | Atom               | ![Atom](https://shields.dvurechensky.pro/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)                                            | `![Atom](https://shields.dvurechensky.pro/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)`                                            |
 | CLion              | ![CLion](https://shields.dvurechensky.pro/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)                                                 | `![CLion](https://shields.dvurechensky.pro/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)`                                                 |
@@ -1222,7 +1222,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | WebStorm           | ![WebStorm](https://shields.dvurechensky.pro/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)                              | `![WebStorm](https://shields.dvurechensky.pro/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)`                              |
 | Xcode              | ![Xcode](https://shields.dvurechensky.pro/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)                                                | `![Xcode](https://shields.dvurechensky.pro/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)`                                                |
 | Zed                | ![Zed](https://shields.dvurechensky.pro/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)                              | `![Zed](https://shields.dvurechensky.pro/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)`                              |
-| Zend               | ![Zend](https://shields.dvurechensky.pro/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)                                                     | `![Zend](https://shields.dvurechensky.pro/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)`                                                     |     |
+| Zend               | ![Zend](https://shields.dvurechensky.pro/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)                                                     | `![Zend](https://shields.dvurechensky.pro/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)`                                                     |
 |                    |
 
 ### 📋 Languages
